@@ -46,6 +46,13 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-12-19 134244](https://github.com/Kannan-S-coder/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147120710/a8e4652b-400f-47d6-aa4d-f8eedd4294c8)
+![Screenshot 2023-12-19 134323](https://github.com/Kannan-S-coder/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147120710/aea93873-ab67-4c11-b358-47f7a41307ec)
+![Screenshot 2023-12-19 134341](https://github.com/Kannan-S-coder/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147120710/8b0e0e66-c85b-47fe-820f-ef56ce5952a8)
+![Screenshot 2023-12-19 134353](https://github.com/Kannan-S-coder/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147120710/0d3abc23-f68a-4b5e-9dc5-d4b76e1b29d7)
+![Screenshot 2023-12-19 134418](https://github.com/Kannan-S-coder/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147120710/b8a71d9d-6f7e-48a2-8ccf-986d96d09e3d)
+
+
 
 ### Name:
 ### Register Number:
